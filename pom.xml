@@ -7,6 +7,10 @@
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<sonar.projectKey>Bobobot_ivt-lab</sonar.projectKey>
+		<sonar.organization>bobobot</sonar.organization>
+		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+		<sonar.login>88de45146841659f705b156fa9b3fd81d0cad556</sonar.login>
 	</properties>
 
 	<dependencies>
