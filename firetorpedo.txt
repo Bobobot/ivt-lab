@@ -1,0 +1,5 @@
+1. Primary and secondary are empty, single fire fails
+2. Primary is empty, secondary isn't, fire all succeeds
+3. Secondary is empty, primary isn't fire all succeeds
+4. Primary and secondary are empty, fire all fails
+5. Secondary isn't empty, fire single succeeds
